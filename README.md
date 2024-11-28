@@ -1,7 +1,6 @@
 # AI_Chat_PDF
 A web-based interface that allows users to have interactive conversations with their PDF documents using OpenAI's GPT-4o model and Streamlit.
-
-<img width="1710" alt="Screenshot 2024-11-28 at 3 44 28 PM" src="https://github.com/user-attachments/assets/9da9a087-92df-4bd7-ab36-7419def9cad8">
+<img width="1648" alt="Screenshot 2024-11-28 at 3 55 50 PM" src="https://github.com/user-attachments/assets/1c7fc805-0bda-4505-8252-e14bb6221cca">
 
 ## 🌟 Features
 
