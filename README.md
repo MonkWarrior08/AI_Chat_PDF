@@ -22,7 +22,7 @@ A web-based interface that allows users to have interactive conversations with t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pdf-chat-assistant.git
+git clone https://github.com/yourusername/AI_Chat_PDF.git
 ```
 
 2. Install required packages:
