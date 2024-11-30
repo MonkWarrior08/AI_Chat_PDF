@@ -9,7 +9,6 @@ A web-based interface that allows users to have interactive conversations with t
 - Secure API key handling
 - Real-time response generation
 - Chat history tracking
-- Mobile-responsive design
 
 ## 🛠️ Technologies Used
 
